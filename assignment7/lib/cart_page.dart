@@ -58,7 +58,7 @@ class CartPage extends StatelessWidget {
                     width: double.infinity,
                     child: ElevatedButton(
                       onPressed: () {},
-                      child: const Text("Pay Now"),
+                      child: const Text("order confirm"),
                     ),
                   ),
                 ],
